@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shanu5712
+- 👀 I’m interested in Computing for the Social Sciences
+- 🌱 I’m currently learning R
